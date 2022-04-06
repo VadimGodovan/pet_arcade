@@ -1,0 +1,1 @@
+https://chel-center.ru/python-yfc/2021/05/05/build-python-game-with-arcade-platform/#designing-the-game
